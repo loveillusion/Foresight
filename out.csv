@@ -1,0 +1,1227 @@
+,City,Number of Beds,Number of Homes,Province,Population
+0,altona,65.0,1,Manitoba,4212
+1,arborg,40.0,1,Manitoba,1222
+2,ashern,20.0,1,Manitoba,609
+3,baldur,20.0,1,Manitoba,337
+4,beausejour,80.0,1,Manitoba,3126
+5,benito,20.0,1,Manitoba,377
+6,birtle,20.0,1,Manitoba,664
+7,boissevain,62.0,2,Manitoba,2353
+8,brandon,597.0,5,Manitoba,48859
+9,carberry,36.0,1,Manitoba,1738
+10,carman,180.0,1,Manitoba,3027
+11,dauphin,160.0,2,Manitoba,8457
+12,deloraine,46.0,2,Manitoba,977
+13,elkhorn,24.0,1,Manitoba,471
+14,emerson,20.0,1,Manitoba,661
+15,erickson,16.0,1,Manitoba,487
+16,eriksdale,20.0,1,Manitoba,846
+17,fisher branch,30.0,1,Manitoba,460
+18,flin flon,66.0,2,Manitoba,5185
+19,fort alexander,30.0,1,Manitoba,0
+20,gilbert plains,30.0,1,Manitoba,2011
+21,gillam,3.0,1,Manitoba,1265
+22,gimli,80.0,1,Manitoba,6181
+23,gladstone,50.0,1,Manitoba,879
+24,glenboro,20.0,1,Manitoba,645
+25,grandview,39.0,1,Manitoba,859
+26,griswold,26.0,1,Manitoba,0
+27,grunthal,40.0,1,Manitoba,1680
+28,hamiota,30.0,1,Manitoba,2011
+29,hartney,20.0,1,Manitoba,415
+30,killarney,120.0,2,Manitoba,505
+31,koostatak,32.0,1,Manitoba,0
+32,lac du bonnet,30.0,1,Manitoba,3121
+33,lundar,20.0,1,Manitoba,496
+34,lynn lake,8.0,1,Manitoba,674
+35,macgregor,20.0,1,Manitoba,963
+36,manitou,18.0,1,Manitoba,818
+37,mccreary,20.0,1,Manitoba,2011
+38,melita,20.0,1,Manitoba,1042
+39,minnedosa,50.0,1,Manitoba,2449
+40,morden,60.0,1,Manitoba,8668
+41,morris,40.0,1,Manitoba,3047
+42,neepawa,100.0,1,Manitoba,4609
+43,nelson house,24.0,1,Manitoba,75
+44,niverville,80.0,1,Manitoba,4083
+45,norway house,26.0,1,Manitoba,461
+46,notre dame de lourdes,60.0,1,Manitoba,683
+47,oakbank,40.0,1,Manitoba,0
+48,opaskwayak,40.0,1,Manitoba,0
+49,oxford house,35.0,1,Manitoba,0
+50,pilot mound,54.0,2,Manitoba,635
+51,pine falls,20.0,1,Manitoba,0
+52,portage la prairie,196.0,2,Manitoba,13304
+53,reston,20.0,1,Manitoba,550
+54,rivers,20.0,1,Manitoba,1189
+55,roblin,60.0,1,Manitoba,932
+56,rossburn,20.0,1,Manitoba,2011
+57,russell,40.0,1,Manitoba,16520
+58,sandy lake,36.0,1,Manitoba,261
+59,selkirk,271.0,3,Manitoba,10278
+60,shoal lake,40.0,1,Manitoba,714
+61,snow lake,3.0,1,Manitoba,723
+62,souris,42.0,1,Manitoba,1053
+63,st. claude,18.0,1,Manitoba,590
+64,st. pierre jolys,22.0,1,Manitoba,0
+65,ste. anne,65.0,1,Manitoba,5003
+66,ste. rose du lac,65.0,1,Manitoba,1023
+67,steinbach,204.0,2,Manitoba,15829
+68,stonewall,50.0,1,Manitoba,4809
+69,swan river,115.0,2,Manitoba,4014
+70,teulon,20.0,1,Manitoba,1201
+71,the pas,60.0,1,Manitoba,5689
+72,thompson,35.0,1,Manitoba,13678
+73,treherne,22.0,1,Manitoba,616
+74,virden,96.0,2,Manitoba,3114
+75,vita,44.0,1,Manitoba,415
+76,wawanesa,20.0,1,Manitoba,562
+77,whitemouth,26.0,1,Manitoba,317
+78,winkler,145.0,1,Manitoba,12660
+79,winnipeg,5640.0,39,Manitoba,705244
+80,winnipeosis,20.0,1,Manitoba,0
+81,adamsville,6.0,1,New Brunswick,0
+82,alcida,6.0,2,New Brunswick,218
+83,allarville,15.0,1,New Brunswick,0
+84,andersonville,5.0,1,New Brunswick,0
+85,apohaqui,9.0,1,New Brunswick,0
+86,atholville,39.0,1,New Brunswick,3570
+87,avondale,9.0,1,New Brunswick,636
+88,baie sainte-anne,20.0,1,New Brunswick,0
+89,baker brook,19.0,1,New Brunswick,287
+90,balmoral,50.0,2,New Brunswick,1674
+91,bas-caraquet,64.0,2,New Brunswick,1380
+92,bas-paquetville,11.0,1,New Brunswick,0
+93,bathurst,420.0,15,New Brunswick,18154
+94,beaverbrook,10.0,1,New Brunswick,0
+95,belleisle creek,20.0,1,New Brunswick,0
+96,beresford,59.0,3,New Brunswick,6248
+97,berwick,10.0,1,New Brunswick,2509
+98,blackville,18.0,2,New Brunswick,2215
+99,bloomfield,12.0,1,New Brunswick,534
+100,bocabec,2.0,1,New Brunswick,0
+101,bouctouche,146.0,8,New Brunswick,2423
+102,burton,11.0,1,New Brunswick,5119
+103,campbellton,220.0,13,New Brunswick,10411
+104,cap-pele,60.0,1,New Brunswick,0
+105,caraquet,48.0,1,New Brunswick,4248
+106,cassilis,4.0,1,New Brunswick,0
+107,chamberlain settlement,4.0,1,New Brunswick,0
+108,clair,24.0,1,New Brunswick,297
+109,cocagne,50.0,2,New Brunswick,2649
+110,dalhousie,90.0,3,New Brunswick,3126
+111,derby junction,10.0,1,New Brunswick,0
+112,dieppe,417.0,9,New Brunswick,107068
+113,douglas,10.0,1,New Brunswick,6154
+114,drummond,5.0,1,New Brunswick,2250
+115,duguayville,1.0,1,New Brunswick,0
+116,dundee,8.0,1,New Brunswick,408
+117,edmundston,429.0,11,New Brunswick,16580
+118,eel river crossing,8.0,1,New Brunswick,1953
+119,evangeline,36.0,2,New Brunswick,0
+120,fredericton,268.0,15,New Brunswick,58220
+121,gagetown,19.0,1,New Brunswick,316
+122,grafton,10.0,1,New Brunswick,0
+123,grand bay,13.0,1,New Brunswick,0
+124,grand sault,3.0,1,New Brunswick,0
+125,grand-digue,45.0,1,New Brunswick,0
+126,grand-sault,136.0,8,New Brunswick,0
+127,hampstead,3.0,1,New Brunswick,7153
+128,hampton,38.0,3,New Brunswick,4289
+129,hanwell,26.0,2,New Brunswick,4750
+130,hartland,15.0,2,New Brunswick,947
+131,harvey station,28.0,1,New Brunswick,0
+132,haut-riviere-du-portage,18.0,1,New Brunswick,0
+133,hillsborough,52.0,2,New Brunswick,1308
+134,hopewell hill,9.0,1,New Brunswick,0
+135,inkerman,50.0,2,New Brunswick,714
+136,intervale,10.0,1,New Brunswick,0
+137,jacksonville,8.0,1,New Brunswick,0
+138,kedgwick,8.0,1,New Brunswick,1979
+139,kingston,6.0,1,New Brunswick,2913
+140,lac baker,3.0,1,New Brunswick,719
+141,lameque,48.0,1,New Brunswick,1285
+142,landry office,20.0,1,New Brunswick,398
+143,lansdowne,8.0,1,New Brunswick,723
+144,laplante,20.0,2,New Brunswick,312
+145,legoulet,25.0,1,New Brunswick,0
+146,limestone,3.0,1,New Brunswick,0
+147,lower mill stream,16.0,1,New Brunswick,0
+148,maisonnette,8.0,1,New Brunswick,573
+149,mcleods,8.0,1,New Brunswick,381
+150,memramcook,28.0,1,New Brunswick,4778
+151,mill cove,22.0,2,New Brunswick,0
+152,millcove,9.0,1,New Brunswick,0
+153,minto,37.0,2,New Brunswick,8671
+154,miramichi,128.0,11,New Brunswick,17537
+155,mirmichi,10.0,1,New Brunswick,0
+156,moncton,780.0,27,New Brunswick,108620
+157,nashwaak village,8.0,1,New Brunswick,0
+158,nasonworth,10.0,1,New Brunswick,0
+159,neguac,66.0,4,New Brunswick,1684
+160,norton,10.0,1,New Brunswick,1382
+161,oak bay,14.0,1,New Brunswick,18094
+162,old ridge,34.0,1,New Brunswick,0
+163,oromocto,24.0,1,New Brunswick,9223
+164,paquetville,8.0,1,New Brunswick,2329
+165,pennfield,30.0,2,New Brunswick,2218
+166,perth-andover,24.0,1,New Brunswick,1778
+167,petit paquetville,9.0,1,New Brunswick,0
+168,petitcodiac,22.0,1,New Brunswick,1383
+169,petit-rocher,50.0,2,New Brunswick,1908
+170,picadilly,8.0,1,New Brunswick,0
+171,pointe des robichaud,16.0,1,New Brunswick,0
+172,pointe-verte,8.0,1,New Brunswick,976
+173,pont-landry,9.0,1,New Brunswick,0
+174,port elgin,10.0,1,New Brunswick,418
+175,quarryville,25.0,1,New Brunswick,0
+176,quispamsis,60.0,1,New Brunswick,18245
+177,quispmsis,10.0,1,New Brunswick,0
+178,red bank,3.0,1,New Brunswick,0
+179,richibucto,29.0,2,New Brunswick,1887
+180,richibucto road,8.0,1,New Brunswick,0
+181,riverview,85.0,4,New Brunswick,19667
+182,rivière à la truite,17.0,1,New Brunswick,395
+183,riviere verte,15.0,1,New Brunswick,0
+184,robertville,30.0,1,New Brunswick,895
+185,rogersville,30.0,2,New Brunswick,1166
+186,rollingdam,3.0,1,New Brunswick,0
+187,sackville,33.0,2,New Brunswick,5331
+188,saint john,414.0,34,New Brunswick,67575
+189,saint john west,7.0,1,New Brunswick,0
+190,saint-andre,15.0,3,New Brunswick,1129
+191,saint-antoine,55.0,1,New Brunswick,1733
+192,saint-basile,31.0,3,New Brunswick,2463
+193,sainte-marie-de-kent,20.0,1,New Brunswick,0
+194,sainte-rose,38.0,2,New Brunswick,0
+195,saint-irenee,2.0,1,New Brunswick,0
+196,saint-jacques,8.0,1,New Brunswick,4021
+197,saint-leonard parent,16.0,1,New Brunswick,0
+198,saint-louis-de-kent,42.0,1,New Brunswick,0
+199,saint-quentin,13.0,2,New Brunswick,2194
+200,salisbury,62.0,3,New Brunswick,3388
+201,scoudouc,10.0,1,New Brunswick,0
+202,shediac,196.0,4,New Brunswick,6664
+203,shemogue,12.0,1,New Brunswick,0
+204,shippagan,69.0,3,New Brunswick,4800
+205,st basile,27.0,1,New Brunswick,0
+206,st jacques,21.0,1,New Brunswick,0
+207,st. george,8.0,1,New Brunswick,1517
+208,st. stephen,16.0,2,New Brunswick,4817
+209,ste-anne de madawaska,48.0,2,New Brunswick,0
+210,st-isidore,35.0,1,New Brunswick,0
+211,st-jacques,15.0,1,New Brunswick,0
+212,st-louis-de-kent,20.0,1,New Brunswick,0
+213,st-quentin,69.0,3,New Brunswick,0
+214,st-simon,14.0,1,New Brunswick,0
+215,stymiest,7.0,1,New Brunswick,0
+216,sussex,2.0,1,New Brunswick,4282
+217,tay creek,12.0,1,New Brunswick,0
+218,temperance vale,14.0,2,New Brunswick,0
+219,three brooks,19.0,1,New Brunswick,0
+220,titusville,18.0,1,New Brunswick,0
+221,tracadie,61.0,2,New Brunswick,16114
+222,tracadie-sheila,148.0,6,New Brunswick,4933
+223,tremblay,10.0,1,New Brunswick,460
+224,upper woodstock,9.0,1,New Brunswick,0
+225,val-doucet,6.0,1,New Brunswick,0
+226,waterville,10.0,1,New Brunswick,2028
+227,wickham,13.0,1,New Brunswick,2470
+228,woodmans point,9.0,1,New Brunswick,0
+229,woodstock,26.0,2,New Brunswick,40902
+230,advocate harbour,10.0,2,Nova Scotia,0
+231,amherst,133.0,5,Nova Scotia,9550
+232,annapolis royal,54.0,1,Nova Scotia,481
+233,antgonish,25.0,1,Nova Scotia,0
+234,antigonish,137.0,2,Nova Scotia,5002
+235,argyle,48.0,1,Nova Scotia,7899
+236,arichat,24.0,1,Nova Scotia,0
+237,baddeck,59.0,1,Nova Scotia,769
+238,barrington,62.0,1,Nova Scotia,6646
+239,barss corner,0.0,1,Nova Scotia,0
+240,beaverbank,51.0,1,Nova Scotia,0
+241,bedford,130.0,1,Nova Scotia,2684
+242,berwick,142.0,2,Nova Scotia,2509
+243,bible hill,60.0,2,Nova Scotia,0
+244,bridgetown,0.0,1,Nova Scotia,1014
+245,bridgetown east,0.0,1,Nova Scotia,0
+246,bridgetown north,107.0,1,Nova Scotia,0
+247,bridgewater,100.0,2,Nova Scotia,8532
+248,brookfield,36.0,1,Nova Scotia,529
+249,caledonia,44.0,1,Nova Scotia,0
+250,canso,15.0,1,Nova Scotia,806
+251,chester,90.0,1,Nova Scotia,10310
+252,cheticamp,61.0,1,Nova Scotia,0
+253,cole harbour,50.0,1,Nova Scotia,0
+254,conway,90.0,1,Nova Scotia,0
+255,dartmouth,249.0,7,Nova Scotia,0
+256,dayton,72.0,1,Nova Scotia,0
+257,debert,36.0,1,Nova Scotia,0
+258,dominion,0.0,1,Nova Scotia,0
+259,dutch brook,0.0,1,Nova Scotia,0
+260,eastern passage,177.0,1,Nova Scotia,0
+261,enfield,59.0,2,Nova Scotia,33
+262,glace bay,221.0,4,Nova Scotia,0
+263,greenfield,0.0,1,Nova Scotia,0
+264,greenwich,50.0,1,Nova Scotia,1058
+265,guysborough,51.0,1,Nova Scotia,403
+266,halifax,1220.0,10,Nova Scotia,403131
+267,hammonds plains,58.0,1,Nova Scotia,0
+268,inverness,71.0,1,Nova Scotia,17235
+269,kentville,181.0,3,Nova Scotia,12088
+270,liverpool,61.0,1,Nova Scotia,0
+271,lockeport,36.0,1,Nova Scotia,588
+272,lower west pubnico,0.0,1,Nova Scotia,0
+273,lunenburg,144.0,1,Nova Scotia,2263
+274,mahone bay,61.0,1,Nova Scotia,1036
+275,meteghan,86.0,3,Nova Scotia,0
+276,middle musquodoboit,29.0,1,Nova Scotia,0
+277,middleton,50.0,1,Nova Scotia,1832
+278,millbrook 27,0.0,1,Nova Scotia,847
+279,musquodoboit harbour,42.0,1,Nova Scotia,0
+280,neil's harbour,19.0,1,Nova Scotia,0
+281,new germany,39.0,1,Nova Scotia,447
+282,new glasgow,202.0,3,Nova Scotia,20609
+283,new waterford,74.0,2,Nova Scotia,0
+284,north sydney,177.0,4,Nova Scotia,0
+285,overton,0.0,1,Nova Scotia,0
+286,parrsboro,14.0,1,Nova Scotia,1205
+287,pictou,83.0,2,Nova Scotia,3186
+288,pleasnantville,0.0,1,Nova Scotia,0
+289,port hawkesbury,60.0,1,Nova Scotia,3214
+290,port hood,0.0,1,Nova Scotia,0
+291,pugwash,74.0,1,Nova Scotia,744
+292,sackville,37.0,1,Nova Scotia,5331
+293,sandy point,66.0,1,Nova Scotia,346
+294,seabright,0.0,1,Nova Scotia,0
+295,sheet harbour,28.0,1,Nova Scotia,0
+296,shelburne,0.0,1,Nova Scotia,8126
+297,sherbrooke,39.0,1,Nova Scotia,161323
+298,shubenacadie,0.0,1,Nova Scotia,0
+299,springhill,66.0,1,Nova Scotia,3868
+300,st peter's,60.0,1,Nova Scotia,0
+301,stellarton,113.0,1,Nova Scotia,4208
+302,sydney,505.0,7,Nova Scotia,0
+303,sydney mines,45.0,2,Nova Scotia,0
+304,tatamagouche,61.0,2,Nova Scotia,752
+305,trenton,36.0,1,Nova Scotia,2474
+306,truro,256.0,3,Nova Scotia,12826
+307,upper nine mile river,0.0,1,Nova Scotia,0
+308,wilmot,0.0,1,Nova Scotia,20545
+309,windsor,251.0,4,Nova Scotia,276165
+310,wolfville,67.0,2,Nova Scotia,4195
+311,yarmouth,105.0,1,Nova Scotia,6518
+312,ailsa craig,83.0,1,Ontario,0
+313,ajax,210.0,2,Ontario,119677
+314,akwesasne,50.0,1,Ontario,1202
+315,alexandria,70.0,1,Ontario,52
+316,alliston,64.0,1,Ontario,0
+317,almonte,194.0,2,Ontario,0
+318,amherstburg,128.0,1,Ontario,21936
+319,amherstview,102.0,1,Ontario,0
+320,ancaster,297.0,2,Ontario,0
+321,arnprior,60.0,1,Ontario,8795
+322,arthur,80.0,1,Ontario,413
+323,athens,60.0,1,Ontario,3013
+324,atikokan,22.0,1,Ontario,2753
+325,aurora,319.0,2,Ontario,55445
+326,aylmer,164.0,2,Ontario,7492
+327,bancroft,110.0,1,Ontario,3881
+328,barrie,1088.0,9,Ontario,172657
+329,barry's bay,90.0,1,Ontario,0
+330,beamsville,231.0,1,Ontario,0
+331,beaverton,149.0,1,Ontario,0
+332,beeton,126.0,1,Ontario,0
+333,belleville,469.0,3,Ontario,50716
+334,blenheim,65.0,1,Ontario,0
+335,blind river,32.0,2,Ontario,3472
+336,bobcaygeon,161.0,2,Ontario,0
+337,bolton,150.0,2,Ontario,0
+338,bourget,56.0,1,Ontario,0
+339,bowmanville,259.0,2,Ontario,0
+340,bracebridge,160.0,1,Ontario,16010
+341,bradford,246.0,1,Ontario,0
+342,brampton,1601.0,11,Ontario,593638
+343,brantford,663.0,5,Ontario,97496
+344,brighton,49.0,1,Ontario,11844
+345,brockville,331.0,2,Ontario,21854
+346,brussels,64.0,1,Ontario,0
+347,burlington,1287.0,10,Ontario,183314
+348,cambridge,841.0,8,Ontario,129920
+349,campbellford,43.0,1,Ontario,0
+350,cannifton,56.0,1,Ontario,0
+351,cannington,55.0,1,Ontario,0
+352,carleton place,60.0,1,Ontario,11901
+353,chapleau,18.0,1,Ontario,1964
+354,chatham,557.0,3,Ontario,101647
+355,chatsworth,34.0,1,Ontario,6630
+356,chelmsford,128.0,1,Ontario,0
+357,chesley,61.0,2,Ontario,0
+358,clarence,113.0,1,Ontario,0
+359,clinton,120.0,1,Ontario,636
+360,cobden,64.0,1,Ontario,0
+361,cobourg,279.0,3,Ontario,19440
+362,cochrane,37.0,1,Ontario,25853
+363,collingwood,270.0,3,Ontario,21793
+364,corbeil,120.0,1,Ontario,0
+365,cornwall,518.0,5,Ontario,46589
+366,courtland,54.0,1,Ontario,0
+367,creemore,95.0,1,Ontario,0
+368,deep river,31.0,2,Ontario,4109
+369,delaware,105.0,1,Ontario,0
+370,delhi,60.0,1,Ontario,0
+371,deseronto,60.0,1,Ontario,1774
+372,dryden,97.0,1,Ontario,7749
+373,dundas,630.0,3,Ontario,3914
+374,dunnville,192.0,2,Ontario,0
+375,durham,100.0,1,Ontario,1076
+376,dutton,57.0,1,Ontario,0
+377,east york,377.0,4,Ontario,0
+378,elliot lake,64.0,1,Ontario,10741
+379,elmira,144.0,2,Ontario,0
+380,elmvale,60.0,1,Ontario,0
+381,embrun,60.0,1,Ontario,0
+382,emo,12.0,1,Ontario,1333
+383,englehart,48.0,1,Ontario,1479
+384,espanola,62.0,2,Ontario,4996
+385,essex,104.0,1,Ontario,20427
+386,etobicoke,2303.0,15,Ontario,0
+387,exeter,47.0,1,Ontario,0
+388,fenelon falls,67.0,1,Ontario,0
+389,fergus,263.0,2,Ontario,0
+390,fordwich,33.0,1,Ontario,0
+391,forest,88.0,1,Ontario,0
+392,fort erie,244.0,3,Ontario,30710
+393,fort frances,154.0,1,Ontario,7739
+394,gananoque,104.0,1,Ontario,5159
+395,georgetown,196.0,2,Ontario,169
+396,geraldton,19.0,1,Ontario,0
+397,glenburnie,128.0,1,Ontario,0
+398,gloucester,240.0,1,Ontario,79943
+399,goderich,91.0,1,Ontario,7628
+400,gore bay,61.0,1,Ontario,850
+401,gravenhurst,183.0,1,Ontario,12311
+402,grimsby,233.0,3,Ontario,27314
+403,guelph,667.0,5,Ontario,131794
+404,hagersville,60.0,1,Ontario,0
+405,haileybury,142.0,2,Ontario,0
+406,haliburton,90.0,2,Ontario,17056
+407,hamilton,2341.0,16,Ontario,693645
+408,hanover,111.0,2,Ontario,15733
+409,harriston,89.0,1,Ontario,0
+410,hawkesbury,146.0,1,Ontario,10263
+411,hearst,67.0,1,Ontario,5070
+412,hensall,60.0,1,Ontario,1078
+413,hornepayne,12.0,1,Ontario,1050
+414,huntsville,170.0,2,Ontario,19816
+415,ingersoll,114.0,2,Ontario,12757
+416,iroquois falls,69.0,1,Ontario,4537
+417,jasper,78.0,1,Ontario,4590
+418,kanata,316.0,2,Ontario,0
+419,kapuskasing,137.0,2,Ontario,8292
+420,kemptville,66.0,2,Ontario,0
+421,kenora,212.0,2,Ontario,15096
+422,keswick,60.0,1,Ontario,0
+423,kincardine,40.0,1,Ontario,11389
+424,king city,36.0,1,Ontario,0
+425,kingston,923.0,5,Ontario,2913
+426,kingsville,160.0,1,Ontario,21552
+427,kirkland lake,181.0,2,Ontario,7981
+428,kitchener,1148.0,7,Ontario,470015
+429,komoka,120.0,1,Ontario,1754
+430,lakefield,100.0,1,Ontario,0
+431,lancaster,60.0,1,Ontario,730
+432,leamington,410.0,3,Ontario,32991
+433,limoges,57.0,1,Ontario,0
+434,lindsay,512.0,5,Ontario,0
+435,lion's head,45.0,1,Ontario,514
+436,listowel,52.0,1,Ontario,0
+437,little current,60.0,1,Ontario,0
+438,london,2574.0,15,Ontario,383822
+439,long sault (cornwall),111.0,1,Ontario,0
+440,l'orignal,60.0,1,Ontario,0
+441,lucknow,61.0,1,Ontario,0
+442,manitouwadge,9.0,1,Ontario,1937
+443,maple,196.0,2,Ontario,0
+444,markdale,66.0,1,Ontario,0
+445,markham,616.0,4,Ontario,328966
+446,marmora,84.0,1,Ontario,0
+447,maryhill,31.0,1,Ontario,574
+448,matheson,20.0,1,Ontario,0
+449,mattawa,72.0,1,Ontario,1993
+450,maxville,122.0,1,Ontario,811
+451,meaford,77.0,1,Ontario,10991
+452,merrickville,60.0,1,Ontario,3067
+453,metcalfe (osgoode),100.0,1,Ontario,0
+454,midland,273.0,2,Ontario,16864
+455,millbrook,128.0,1,Ontario,0
+456,milton,200.0,1,Ontario,110128
+457,milverton,77.0,1,Ontario,0
+458,minden,62.0,1,Ontario,0
+459,mississauga,2553.0,16,Ontario,721599
+460,mitchell,131.0,2,Ontario,2279
+461,mount forest,87.0,1,Ontario,0
+462,napanee,168.0,2,Ontario,0
+463,nepean,466.0,3,Ontario,0
+464,new hamburg,97.0,1,Ontario,0
+465,newcastle,88.0,1,Ontario,1136
+466,newmarket,487.0,4,Ontario,84224
+467,niagara falls,759.0,6,Ontario,308596
+468,niagara-on-the-lake,204.0,2,Ontario,17511
+469,nipigon,15.0,1,Ontario,1642
+470,north bay,388.0,2,Ontario,51553
+471,north york,3216.0,14,Ontario,0
+472,northbrook,64.0,1,Ontario,0
+473,norwood,61.0,1,Ontario,0
+474,oakville,790.0,5,Ontario,193832
+475,orangeville,137.0,1,Ontario,30734
+476,orillia,521.0,4,Ontario,31166
+477,orleans,160.0,1,Ontario,0
+478,oshawa,1001.0,5,Ontario,166000
+479,ottawa,3132.0,17,Ontario,989567
+480,owen sound,338.0,4,Ontario,31820
+481,palmerston,67.0,1,Ontario,0
+482,paris,177.0,2,Ontario,0
+483,parkhill,64.0,1,Ontario,0
+484,parry sound,211.0,2,Ontario,6408
+485,pembroke,297.0,2,Ontario,13882
+486,penetanguishene,143.0,1,Ontario,8962
+487,perth,284.0,2,Ontario,5930
+488,peterborough,817.0,5,Ontario,82094
+489,petrolia,253.0,2,Ontario,5742
+490,pickering,357.0,2,Ontario,91771
+491,picton,273.0,4,Ontario,0
+492,plantagenet,60.0,1,Ontario,1027
+493,port colborne,150.0,1,Ontario,18306
+494,port dover,70.0,1,Ontario,0
+495,port hope,285.0,3,Ontario,16753
+496,port perry,107.0,1,Ontario,0
+497,port stanley,60.0,1,Ontario,0
+498,powassan,128.0,1,Ontario,3455
+499,prescott,60.0,1,Ontario,3965
+500,puslinch,28.0,1,Ontario,7336
+501,rainy river,21.0,1,Ontario,20370
+502,red lake,32.0,1,Ontario,4107
+503,renfrew,259.0,2,Ontario,8223
+504,richmond hill,656.0,5,Ontario,195022
+505,ridgetown,40.0,1,Ontario,0
+506,sarnia,708.0,6,Ontario,71594
+507,sarsfield,46.0,1,Ontario,0
+508,sault ste. marie,790.0,5,Ontario,73368
+509,scarborough,4076.0,21,Ontario,0
+510,seaforth,63.0,1,Ontario,0
+511,selby,66.0,1,Ontario,0
+512,shelburne,220.0,2,Ontario,8126
+513,simcoe,349.0,3,Ontario,446063
+514,sioux lookout,20.0,1,Ontario,5272
+515,"six nations (part) 40, r1",50.0,1,Ontario,0
+516,smiths falls,75.0,1,Ontario,8780
+517,smooth rock falls,20.0,1,Ontario,1330
+518,southampton,84.0,1,Ontario,1484
+519,southwold,64.0,1,Ontario,4421
+520,st. catharines,1199.0,9,Ontario,309319
+521,st. jacobs,72.0,1,Ontario,0
+522,st. marys,122.0,2,Ontario,7265
+523,st. thomas,402.0,4,Ontario,61707
+524,stayner,49.0,1,Ontario,0
+525,stirling,75.0,1,Ontario,1090
+526,stittsville,224.0,1,Ontario,0
+527,stoney creek,470.0,5,Ontario,0
+528,stouffville,241.0,2,Ontario,45837
+529,stratford,323.0,4,Ontario,31465
+530,strathroy,256.0,2,Ontario,0
+531,sturgeon falls,162.0,2,Ontario,0
+532,sudbury,1166.0,5,Ontario,88054
+533,sutton west,119.0,1,Ontario,0
+534,tavistock,143.0,2,Ontario,0
+535,tecumseh,330.0,3,Ontario,23229
+536,terrace bay,22.0,1,Ontario,1611
+537,thessalon,96.0,1,Ontario,1279
+538,thornbury,60.0,1,Ontario,0
+539,thunder bay,1109.0,6,Ontario,107909
+540,tilbury,75.0,1,Ontario,0
+541,tillsonburg,137.0,2,Ontario,15872
+542,timmins,357.0,2,Ontario,41788
+543,toronto,4911.0,29,Ontario,5429524
+544,townsend,64.0,1,Ontario,0
+545,trenton,224.0,2,Ontario,2474
+546,tweed,128.0,1,Ontario,6044
+547,unionville,160.0,1,Ontario,0
+548,uxbridge,100.0,1,Ontario,21176
+549,val caron,128.0,1,Ontario,0
+550,vanier,160.0,1,Ontario,0
+551,vaughan,160.0,1,Ontario,306233
+552,vineland,128.0,1,Ontario,0
+553,virgil,41.0,1,Ontario,0
+554,walkerton,144.0,1,Ontario,0
+555,wallaceburg,99.0,1,Ontario,0
+556,wardsville,60.0,1,Ontario,431
+557,warkworth,60.0,1,Ontario,0
+558,waterdown,128.0,1,Ontario,0
+559,waterloo,528.0,4,Ontario,104986
+560,watford,63.0,1,Ontario,0
+561,wawa,22.0,1,Ontario,2905
+562,welland,473.0,5,Ontario,52293
+563,whitby,454.0,3,Ontario,128377
+564,wiarton,100.0,1,Ontario,0
+565,wikwemikong,59.0,1,Ontario,0
+566,winchester,98.0,1,Ontario,508
+567,windsor,1420.0,9,Ontario,276165
+568,wingham,69.0,1,Ontario,0
+569,woodbridge,588.0,4,Ontario,0
+570,woodslee,104.0,1,Ontario,0
+571,woodstock,315.0,2,Ontario,40902
+572,york,338.0,2,Ontario,97238
+573,zurich,65.0,1,Ontario,865
+574,alberton,48.0,1,PEI,1145
+575,belfast,88.0,1,PEI,0
+576,charlottetown,693.0,8,PEI,42602
+577,crapaud,36.0,1,PEI,345
+578,kensington,30.0,1,PEI,1619
+579,montague,49.0,1,PEI,3761
+580,o'leary,40.0,1,PEI,812
+581,souris,52.0,1,PEI,1053
+582,summerside,198.0,3,PEI,14829
+583,tyne valley,23.0,1,PEI,222
+584,abbotsford,59.0,11,British Columbia,141397
+585,agassiz,1.0,1,British Columbia,0
+586,bc,218.0,2,British Columbia,0
+587,brocklehurst,8.0,1,British Columbia,0
+588,burnaby,201.0,12,British Columbia,232755
+589,castlegar,4.0,1,British Columbia,8039
+590,chiliwack,3.0,1,British Columbia,0
+591,chilliwack,11.0,2,British Columbia,83788
+592,comox,3.0,2,British Columbia,14828
+593,coquitlam,39.0,4,British Columbia,139284
+594,cranbrook,3.0,1,British Columbia,19259
+595,dawson creek,5.0,2,British Columbia,12978
+596,delta,29.0,6,British Columbia,102238
+597,duncan,1.0,1,British Columbia,44451
+598,fort st. john,3.0,3,British Columbia,20155
+599,hazelton,1.0,1,British Columbia,300
+600,kamloops,19.0,7,British Columbia,100046
+601,kelowna,63.0,9,British Columbia,142146
+602,kitsilano,2.0,1,British Columbia,0
+603,kootenay,2.0,1,British Columbia,0
+604,langara,6.0,1,British Columbia,0
+605,langley,92.0,7,British Columbia,117285
+606,lumby,1.0,1,British Columbia,3500
+607,maple ridge,13.0,3,British Columbia,82256
+608,merritt,4.0,2,British Columbia,7139
+609,mission,10.0,3,British Columbia,38833
+610,nanaimo,4.0,2,British Columbia,90504
+611,nelson,2.0,1,British Columbia,10664
+612,new westminister,43.0,3,British Columbia,0
+613,north vancouver,32.0,3,British Columbia,85935
+614,oliver,26.0,2,British Columbia,4928
+615,osooyos,1.0,1,British Columbia,0
+616,penticton,14.0,4,British Columbia,33761
+617,port coquitlam,11.0,3,British Columbia,58612
+618,port moody,6.0,1,British Columbia,33551
+619,prince george,33.0,3,British Columbia,74003
+620,prince rupert,17.0,1,British Columbia,12220
+621,qualicum beach,1.0,1,British Columbia,8943
+622,richmond,26.0,3,British Columbia,198309
+623,richmond hill,1.0,1,British Columbia,195022
+624,saanich,5.0,1,British Columbia,114148
+625,saanichton,1.0,1,British Columbia,0
+626,salmon arm,8.0,3,British Columbia,17706
+627,sidney,2.0,1,British Columbia,11672
+628,smithers,1.0,1,British Columbia,5351
+629,south vancouver,41.0,1,British Columbia,0
+630,surrey,107.0,20,British Columbia,517887
+631,vancouver,197.0,22,British Columbia,2264823
+632,vernon,28.0,5,British Columbia,44600
+633,victoria,11.0,5,British Columbia,335696
+634,victoria ,11.0,4,British Columbia,0
+635,west kelowna,14.0,3,British Columbia,30902
+636,west vancouver,28.0,2,British Columbia,42473
+637,white rock,29.0,3,British Columbia,82368
+638,williams lake,4.0,2,British Columbia,10753
+639,acton vale,25.0,2,Quebec,7664
+640,adstock,1.0,1,Quebec,2806
+641,alma,34.0,9,Quebec,30904
+642,amos,5.0,3,Quebec,12823
+643,amqui,1.0,1,Quebec,6322
+644,ancienne-lorette,8.0,4,Quebec,0
+645,asbestos,13.0,2,Quebec,7096
+646,assomption,34.0,2,Quebec,0
+647,ayer's cliff,1.0,1,Quebec,1109
+648,aylmer,16.0,2,Quebec,7492
+649,baie-comeau,9.0,5,Quebec,21536
+650,baie-d'urfé,4.0,1,Quebec,3850
+651,baie-st-paul,8.0,1,Quebec,0
+652,bas-saint-laurent,5.0,1,Quebec,0
+653,beaconsfield,11.0,4,Quebec,19115
+654,beauceville,6.0,3,Quebec,6354
+655,beauharnois,14.0,3,Quebec,12011
+656,beaumont,1.0,1,Quebec,17396
+657,beauport,54.0,6,Quebec,7281
+658,becancour,2.0,1,Quebec,12438
+659,bécancour,2.0,2,Quebec,20081
+660,bedford,1.0,1,Quebec,2684
+661,beloeil,2.0,1,Quebec,50796
+662,blainville,24.0,4,Quebec,56363
+663,boisbriand,2.0,1,Quebec,26884
+664,boischatel,10.0,2,Quebec,6465
+665,bois-des-filion,3.0,1,Quebec,9485
+666,bonaventure,1.0,1,Quebec,2775
+667,boucherville,40.0,7,Quebec,40753
+668,brossard,111.0,7,Quebec,85721
+669,burnaby,1.0,1,Quebec,232755
+670,candiac,2.0,1,Quebec,21047
+671,cap-aux-meules,3.0,1,Quebec,0
+672,cap-chat ,1.0,1,Quebec,0
+673,capitale-nationale,1.0,1,Quebec,0
+674,cap-st-ignace,18.0,1,Quebec,0
+675,chambly,2.0,1,Quebec,29120
+676,champlain-de-pommetiers,1.0,1,Quebec,0
+677,chandler,8.0,2,Quebec,7703
+678,charny,26.0,1,Quebec,0
+679,chateauguay,8.0,4,Quebec,70812
+680,châteauguay,17.0,3,Quebec,45904
+681,chateau-richer,12.0,1,Quebec,4126
+682,château-richer,4.0,1,Quebec,3834
+683,chaudière-appalaches,29.0,1,Quebec,0
+684,chénéville,1.0,1,Quebec,792
+685,chertsey,1.0,1,Quebec,4836
+686,chicoutimi,96.0,7,Quebec,0
+687,cleveland,1.0,1,Quebec,1609
+688,coaticook,11.0,2,Quebec,8698
+689,compton,1.0,1,Quebec,3112
+690,contrecoeur,3.0,1,Quebec,6252
+691,cote st-luc,78.0,4,Quebec,0
+692,côteau du lac,1.0,1,Quebec,0
+693,côte-de-gaspé,1.0,1,Quebec,0
+694,cowansville,25.0,4,Quebec,12489
+695,danville,6.0,1,Quebec,4070
+696,dégelis,2.0,2,Quebec,3051
+697,deux-montagnes,1.0,1,Quebec,17553
+698,disraeli,4.0,1,Quebec,2502
+699,dolbeau-mistassini,23.0,5,Quebec,14384
+700,dollard-des-ormeaux,86.0,3,Quebec,49637
+701,dorval,63.0,2,Quebec,18980
+702,drummondville,111.0,15,Quebec,68601
+703,east broughton,9.0,1,Quebec,2229
+704,épiphanie,2.0,1,Quebec,0
+705,farham,6.0,2,Quebec,0
+706,ferme-neuve,1.0,1,Quebec,2822
+707,forestville,1.0,1,Quebec,3270
+708,fortierville,4.0,1,Quebec,448
+709,gaspé,11.0,3,Quebec,15163
+710,gatineau,131.0,23,Quebec,276245
+711,gracefield,6.0,1,Quebec,2462
+712,granby,81.0,14,Quebec,63433
+713,granit,14.0,2,Quebec,0
+714,ham-nord,1.0,1,Quebec,832
+715,hébertville,4.0,1,Quebec,2441
+716,hinchinbrooke,1.0,1,Quebec,2103
+717,huntingdon,3.0,1,Quebec,2444
+718,innisfail,1.0,1,Quebec,7847
+719,joliette,85.0,8,Quebec,19621
+720,jonquière,27.0,6,Quebec,0
+721,kamouraska,2.0,1,Quebec,332
+722,kirkland,3.0,1,Quebec,20151
+723,la baie,7.0,2,Quebec,0
+724,la prairie,15.0,3,Quebec,23357
+725,la sarre,2.0,1,Quebec,7719
+726,la tuque,4.0,2,Quebec,11001
+727,lac-au-saumon,1.0,1,Quebec,1453
+728,lac-brome,5.0,1,Quebec,58889
+729,lac-etchemin,10.0,1,Quebec,4061
+730,lachine,68.0,2,Quebec,0
+731,lachute,28.0,3,Quebec,12551
+732,lac-megantic,7.0,3,Quebec,5932
+733,lamartine,1.0,1,Quebec,0
+734,lambton,10.0,2,Quebec,1584
+735,lanaudière,23.0,6,Quebec,0
+736,lanoraie,20.0,3,Quebec,4787
+737,lasalle,83.0,2,Quebec,30180
+738,l'ascension-de-notre-seigneur,3.0,2,Quebec,1983
+739,laurentides,32.0,1,Quebec,0
+740,laval,761.0,48,Quebec,422993
+741,lavaltrie,19.0,2,Quebec,13657
+742,lebel-sur-quévillon,1.0,1,Quebec,2159
+743,l'épiphanie,4.0,1,Quebec,5353
+744,lévis,68.0,23,Quebec,138769
+745,l'île-perrot,21.0,2,Quebec,10503
+746,l'islet,2.0,1,Quebec,841
+747,longueuil,178.0,21,Quebec,239700
+748,loretteville,2.0,1,Quebec,0
+749,lotbinière,2.0,1,Quebec,29617
+750,louiseville,17.0,5,Quebec,7517
+751,lyster,1.0,1,Quebec,1628
+752,macamic,3.0,1,Quebec,2734
+753,magog,28.0,8,Quebec,25358
+754,maniwaki,4.0,1,Quebec,3930
+755,mansfield-et-pontefract,1.0,1,Quebec,2285
+756,maria,18.0,4,Quebec,2536
+757,marieville,47.0,2,Quebec,10094
+758,mascouche,42.0,4,Quebec,42491
+759,matane,22.0,4,Quebec,14462
+760,mauricie,31.0,1,Quebec,0
+761,mcmasterville,2.0,1,Quebec,5615
+762,messines,5.0,1,Quebec,1608
+763,midland,1.0,1,Quebec,16864
+764,mirabel,2.0,1,Quebec,50513
+765,montebello,1.0,1,Quebec,978
+766,montérégie-centre,18.0,1,Quebec,0
+767,montéregie-est,67.0,1,Quebec,0
+768,montéregie-ouest,40.0,1,Quebec,0
+769,montérégie-ouest,1.0,1,Quebec,0
+770,mont-joli,1.0,1,Quebec,6281
+771,mont-laurier,13.0,3,Quebec,13779
+772,montmagny,10.0,5,Quebec,11491
+773,montreal,3229.0,200,Quebec,3519595
+774,montreal north,120.0,4,Quebec,0
+775,mont-royal,2.0,1,Quebec,19503
+776,mont-saint-hilaire,5.0,2,Quebec,18200
+777,mont-tremblant,13.0,1,Quebec,9646
+778,new carlisle,4.0,1,Quebec,1388
+779,new richmond,1.0,1,Quebec,3810
+780,nicolet,9.0,4,Quebec,7828
+781,normandin,3.0,2,Quebec,3137
+782,notre-dame-des-pins,5.0,1,Quebec,1227
+783,notre-dame-du-bon-conseil,3.0,2,Quebec,1404
+784,ormstown,14.0,1,Quebec,3595
+785,outaouais,26.0,3,Quebec,0
+786,pessisville,1.0,1,Quebec,0
+787,pincourt,1.0,1,Quebec,14558
+788,pointe claire,29.0,3,Quebec,0
+789,pont-rouge,3.0,1,Quebec,8723
+790,pord colborne,1.0,1,Quebec,0
+791,portneuf,3.0,2,Quebec,3187
+792,prévost,1.0,1,Quebec,12171
+793,qubec city,1.0,1,Quebec,0
+794,quebec,290.0,2,Quebec,7903001
+795,quebec   ,333.0,1,Quebec,0
+796,quebec city,769.0,74,Quebec,705103
+797,racine,3.0,1,Quebec,1252
+798,rawdon,11.0,4,Quebec,10416
+799,repentigny,73.0,8,Quebec,84965
+800,richelieu,2.0,2,Quebec,5467
+801,richmond,4.0,1,Quebec,198309
+802,rigaud,8.0,3,Quebec,7566
+803,rimouski,11.0,5,Quebec,48664
+804,rivière-bleue,2.0,1,Quebec,1299
+805,rivière-du-loup,8.0,6,Quebec,34375
+806,rivière-rouge,14.0,1,Quebec,4645
+807,roberval,5.0,2,Quebec,10227
+808,rosemère,17.0,1,Quebec,14294
+809,rouyn-noranda,8.0,2,Quebec,42334
+810,saguenay,63.0,9,Quebec,144746
+811,saint-alexandre-de-kamouraska ,1.0,1,Quebec,0
+812,saint-andré-avellin,20.0,2,Quebec,3702
+813,saint-andré-avellin ,1.0,1,Quebec,0
+814,saint-augustin-de-desmaures,47.0,2,Quebec,18141
+815,saint-basile-le-grand,23.0,2,Quebec,16736
+816,saint-bernard,1.0,1,Quebec,2131
+817,saint-césaire,1.0,1,Quebec,5686
+818,saint-charles-borromée,52.0,6,Quebec,13321
+819,saint-charles-borromée ,7.0,2,Quebec,0
+820,saint-côme-linéaire,4.0,1,Quebec,0
+821,saint-constat,4.0,1,Quebec,0
+822,saint-damase,1.0,1,Quebec,2506
+823,sainte-adele,1.0,1,Quebec,12137
+824,sainte-adèle,1.0,1,Quebec,12137
+825,sainte-agathe,3.0,1,Quebec,611
+826,sainte-agathe-des-monts,10.0,2,Quebec,10223
+827,sainte-anne de la pérade,1.0,1,Quebec,0
+828,sainte-anne-de-bellevue,16.0,1,Quebec,4958
+829,sainte-catherine,6.0,4,Quebec,16762
+830,sainte-cécile-de-masham,2.0,1,Quebec,0
+831,sainte-claire,4.0,1,Quebec,3325
+832,sainte-clotolde-de-beauce,1.0,1,Quebec,0
+833,sainte-croix,1.0,1,Quebec,2352
+834,saint-édouard-de-lotbinièr,1.0,1,Quebec,0
+835,sainte-famille-de-l'île-orléans,1.0,1,Quebec,0
+836,sainte-georges,1.0,1,Quebec,0
+837,sainte-hénédine,9.0,1,Quebec,1212
+838,sainte-julie,13.0,2,Quebec,30104
+839,sainte-justine,4.0,2,Quebec,1845
+840,sainte-luce,1.0,1,Quebec,2851
+841,sainte-marie,2.0,1,Quebec,12889
+842,sainte-marie-salomé,21.0,2,Quebec,1164
+843,sainte-monique,1.0,1,Quebec,212
+844,sainte-thècle,3.0,1,Quebec,2478
+845,sainte-thérèse,89.0,5,Quebec,26025
+846,saint-eustache,68.0,7,Quebec,44154
+847,saint-fabien    ,1.0,1,Quebec,0
+848,saint-fabien-de-panet,2.0,1,Quebec,992
+849,saint-félicien,1.0,1,Quebec,10278
+850,saint-félix-de-valois ,1.0,1,Quebec,0
+851,saint-gabriel,1.0,1,Quebec,2844
+852,saint-georges,20.0,5,Quebec,31173
+853,saint-hubert,61.0,3,Quebec,0
+854,saint-hyacinthe,149.0,9,Quebec,59614
+855,saint-jean-de-dieu,2.0,1,Quebec,1606
+856,saint-jean-de-matha,2.0,1,Quebec,4335
+857,saint-jean-sur-richelieu,71.0,8,Quebec,92394
+858,saint-jerôme,1.0,1,Quebec,0
+859,saint-jérôme,106.0,11,Quebec,68456
+860,saint-joseph-de-lepage,5.0,1,Quebec,527
+861,saint-lambert,123.0,8,Quebec,21861
+862,saint-laurent,11.0,1,Quebec,215
+863,saint-léonard-d'aston,3.0,1,Quebec,982
+864,saint-liboire,2.0,1,Quebec,3051
+865,saint-lin,20.0,1,Quebec,0
+866,saint-louis-du-haha,3.0,1,Quebec,0
+867,saint-ludger,3.0,1,Quebec,1255
+868,saint-mathieu,5.0,1,Quebec,1879
+869,saint-maurice,5.0,1,Quebec,2775
+870,saint-michel-de-squatic,3.0,1,Quebec,0
+871,saint-michel-des-saints,1.0,1,Quebec,2436
+872,saint-ours,2.0,1,Quebec,1721
+873,saint-paul-de-l'île,2.0,1,Quebec,0
+874,saint-pierre-les-becquets,1.0,1,Quebec,1223
+875,saint-raphaël,9.0,1,Quebec,2463
+876,saint-raymond,9.0,1,Quebec,9615
+877,saint-rémi,11.0,3,Quebec,7265
+878,saint-roch-de-l'achigan,4.0,1,Quebec,4892
+879,"saint-romuald, qc",17.0,2,Quebec,0
+880,saint-sauveur,23.0,3,Quebec,9881
+881,saint-tite,15.0,1,Quebec,3880
+882,saint-victor,13.0,1,Quebec,2430
+883,salaberry-de-valleyfield,99.0,12,Quebec,42410
+884,selkirk,1.0,1,Quebec,10278
+885,senneterre,1.0,1,Quebec,2953
+886,sept-iles,6.0,1,Quebec,28534
+887,sept-îles,3.0,3,Quebec,25686
+888,shawinigan,75.0,11,Quebec,50060
+889,sherbrooke,132.0,22,Quebec,161323
+890,sorel-tracy,44.0,8,Quebec,41629
+891,st. jérôme,1.0,1,Quebec,0
+892,st. ligori,1.0,1,Quebec,0
+893,st. raphaël,3.0,1,Quebec,0
+894,st-antoine-sur-richelieu,12.0,1,Quebec,0
+895,st-augustin,22.0,1,Quebec,0
+896,st-bruno-de-montarville,3.0,2,Quebec,0
+897,st-casimir,3.0,1,Quebec,0
+898,st-célestin,3.0,1,Quebec,0
+899,st-donat,1.0,1,Quebec,0
+900,ste-adele,13.0,1,Quebec,0
+901,ste-foy,10.0,2,Quebec,0
+902,st-elie de caxton,1.0,1,Quebec,0
+903,ste-marie,13.0,1,Quebec,0
+904,st-gabriel-de-brandon,4.0,1,Quebec,0
+905,st-georges,17.0,2,Quebec,0
+906,st-hubert,3.0,1,Quebec,0
+907,st-hyacinthe,14.0,2,Quebec,0
+908,st-jean-de-dieu,5.0,1,Quebec,0
+909,st-jean-de-richelieu,2.0,1,Quebec,0
+910,st-jean-port-joli,2.0,1,Quebec,0
+911,st-jerôme,26.0,2,Quebec,0
+912,st-joseph-de-beauce,10.0,2,Quebec,0
+913,st-lazare-de-belchasse,1.0,1,Quebec,0
+914,st-nazaire-de -dorcheste,1.0,1,Quebec,0
+915,st-nicolas,4.0,1,Quebec,0
+916,st-prosper,6.0,2,Quebec,0
+917,stratford,1.0,1,Quebec,31465
+918,st-raymond,12.0,1,Quebec,0
+919,st-romuald,1.0,1,Quebec,0
+920,st-siméon,2.0,1,Quebec,0
+921,st-zacharie,2.0,1,Quebec,0
+922,temiscouata-sur-le-lac,1.0,1,Quebec,5096
+923,témiscouata-sur-le-lac ,2.0,1,Quebec,0
+924,terrebonne,65.0,6,Quebec,111575
+925,thetford mines,31.0,12,Quebec,25709
+926,tring-jonction,1.0,1,Quebec,1473
+927,trois rivières,1.0,1,Quebec,0
+928,trois-pistoles,5.0,2,Quebec,3456
+929,trois-rivières,182.0,23,Quebec,131338
+930,valcourt,5.0,1,Quebec,2349
+931,valleyfield,5.0,2,Quebec,0
+932,varennes,24.0,2,Quebec,20994
+933,vaudreuil-dorion,37.0,4,Quebec,38117
+934,vaudreuil-soulanges,3.0,2,Quebec,139353
+935,verdun,31.0,2,Quebec,0
+936,victoriaville,54.0,8,Quebec,45309
+937,victoriaville or trois-rivi,3.0,1,Quebec,0
+938,ville-marie,1.0,1,Quebec,2595
+939,warwick,9.0,2,Quebec,4766
+940,waterloo,9.0,2,Quebec,104986
+941,westmount,21.0,2,Quebec,19931
+942,windsor,2.0,1,Quebec,276165
+943,winnipeg,11.0,1,Quebec,705244
+944,badger's quay,45.0,1,Newfoundland,0
+945,baie verte,18.0,1,Newfoundland,1313
+946,bell island,20.0,1,Newfoundland,0
+947,bonavista,12.0,2,Newfoundland,3448
+948,botwood,76.0,1,Newfoundland,2875
+949,buchans,18.0,1,Newfoundland,696
+950,burgeo,18.0,1,Newfoundland,1307
+951,"carbonear, nl",228.0,1,Newfoundland,0
+952,clarenville,56.0,2,Newfoundland,6291
+953,corner brook,395.0,3,Newfoundland,19806
+954,fogo island,0.0,1,Newfoundland,2244
+955,forteau,13.0,1,Newfoundland,429
+956,gander,102.0,1,Newfoundland,11688
+957,grand bank,61.0,1,Newfoundland,2310
+958,grand falls-windsor,79.0,2,Newfoundland,13725
+959,happy valley-goose bay,57.0,1,Newfoundland,7552
+960,harbour breton,18.0,1,Newfoundland,1634
+961,labrador city,14.0,1,Newfoundland,7220
+962,lewisporte,51.0,1,Newfoundland,3409
+963,norris point,14.0,1,Newfoundland,685
+964,placentia,75.0,1,Newfoundland,3496
+965,port aux basques,30.0,1,Newfoundland,0
+966,port saunders,22.0,1,Newfoundland,697
+967,portugal cove,0.0,1,Newfoundland,0
+968,springdale,132.0,1,Newfoundland,2971
+969,st lawrence,40.0,1,Newfoundland,0
+970,st. anthony,0.0,1,Newfoundland,2258
+971,st. john's,1083.0,6,Newfoundland,108860
+972,stephenville crossing,114.0,1,Newfoundland,1719
+973,twillingate,0.0,1,Newfoundland,2196
+974,arborfield,35.0,1,Saskatchewan,326
+975,assiniboia,60.0,2,Saskatchewan,2389
+976,balcarres,44.0,1,Saskatchewan,617
+977,battleford,0.0,3,Saskatchewan,4065
+978,bengough h,26.0,1,Saskatchewan,0
+979,big river,34.0,1,Saskatchewan,759
+980,birch hills,29.0,1,Saskatchewan,1064
+981,broadview,35.0,1,Saskatchewan,574
+982,cabri,17.0,1,Saskatchewan,399
+983,canora,10.0,1,Saskatchewan,2219
+984,canwood,29.0,1,Saskatchewan,348
+985,carlyle,40.0,1,Saskatchewan,1503
+986,carnduff,38.0,1,Saskatchewan,1126
+987,carrot river,35.0,1,Saskatchewan,1000
+988,central butte,52.0,2,Saskatchewan,365
+989,coronach,12.0,1,Saskatchewan,711
+990,craik,15.0,1,Saskatchewan,453
+991,cudworth,29.0,1,Saskatchewan,770
+992,cupar,48.0,1,Saskatchewan,579
+993,cut knife,0.0,1,Saskatchewan,517
+994,dalmeny,36.0,1,Saskatchewan,1826
+995,dinsmore,18.0,1,Saskatchewan,318
+996,duck lake,29.0,1,Saskatchewan,577
+997,eastend,23.0,1,Saskatchewan,527
+998,edam,0.0,1,Saskatchewan,444
+999,elrose,30.0,1,Saskatchewan,477
+1000,esterhazy,52.0,1,Saskatchewan,2472
+1001,estevan,70.0,1,Saskatchewan,11258
+1002,eston,31.0,1,Saskatchewan,1061
+1003,fillmore,19.0,1,Saskatchewan,255
+1004,foam lake,,1,Saskatchewan,1123
+1005,fort qu'appelle,50.0,1,Saskatchewan,1919
+1006,gainsborough,16.0,1,Saskatchewan,291
+1007,goodsoil?,0.0,1,Saskatchewan,0
+1008,gravelbourg/ponteix,49.0,1,Saskatchewan,0
+1009,grenfell,33.0,1,Saskatchewan,1099
+1010,gull lake,33.0,1,Saskatchewan,989
+1011,hafford,22.0,1,Saskatchewan,397
+1012,herbert,36.0,1,Saskatchewan,759
+1013,hudson bay,20.0,1,Saskatchewan,1504
+1014,humboldt,85.0,1,Saskatchewan,5869
+1015,ile-a la-crosse?,45.0,1,Saskatchewan,0
+1016,imperial,18.0,1,Saskatchewan,349
+1017,indian head,38.0,1,Saskatchewan,1910
+1018,invermay,,1,Saskatchewan,247
+1019,ituna,35.0,1,Saskatchewan,711
+1020,kamsack,20.0,1,Saskatchewan,1825
+1021,kelvington,45.0,1,Saskatchewan,890
+1022,kerrobert,30.0,1,Saskatchewan,1061
+1023,kindersley,79.0,1,Saskatchewan,4597
+1024,kinistino,30.0,1,Saskatchewan,743
+1025,kipling,32.0,1,Saskatchewan,1140
+1026,kyle,17.0,1,Saskatchewan,437
+1027,la loche,,1,Saskatchewan,2827
+1028,la ronge,14.0,1,Saskatchewan,5671
+1029,lafleche,16.0,1,Saskatchewan,406
+1030,lampman,19.0,1,Saskatchewan,713
+1031,langham,17.0,1,Saskatchewan,1496
+1032,lanigan,35.0,1,Saskatchewan,1233
+1033,leader,122.0,2,Saskatchewan,821
+1034,leask,29.0,1,Saskatchewan,413
+1035,leoville,16.0,1,Saskatchewan,366
+1036,leroy,,1,Saskatchewan,427
+1037,lestock,10.0,1,Saskatchewan,125
+1038,lloydminster,60.0,3,Saskatchewan,31410
+1039,loon lake?,0.0,1,Saskatchewan,0
+1040,lucky lake?,17.0,1,Saskatchewan,0
+1041,lumsden,30.0,1,Saskatchewan,1824
+1042,macklin,22.0,1,Saskatchewan,1415
+1043,maidstone,0.0,1,Saskatchewan,1156
+1044,mankota,15.0,1,Saskatchewan,211
+1045,maple creek,45.0,1,Saskatchewan,2084
+1046,meadow lake,0.0,1,Saskatchewan,5344
+1047,melfort,103.0,1,Saskatchewan,5992
+1048,melville,80.0,1,Saskatchewan,4562
+1049,midale,15.0,1,Saskatchewan,562
+1050,middle lake,36.0,1,Saskatchewan,242
+1051,montmartre,,1,Saskatchewan,476
+1052,moose jaw,330.0,3,Saskatchewan,33890
+1053,moosomin,58.0,1,Saskatchewan,2485
+1054,nipawin,95.0,1,Saskatchewan,4401
+1055,nokomis,14.0,1,Saskatchewan,397
+1056,norquay,30.0,1,Saskatchewan,435
+1057,outlook,45.0,1,Saskatchewan,2279
+1058,oxbow,12.0,1,Saskatchewan,1328
+1059,porcupine plain,38.0,1,Saskatchewan,855
+1060,preeceville,38.0,1,Saskatchewan,1070
+1061,prince albert?,320.0,3,Saskatchewan,0
+1062,radville,25.0,1,Saskatchewan,860
+1063,raymore,29.0,1,Saskatchewan,568
+1064,redvers,23.0,1,Saskatchewan,975
+1065,regina,1319.0,9,Saskatchewan,215106
+1066,rockglen,17.0,1,Saskatchewan,400
+1067,rosetown,54.0,1,Saskatchewan,2451
+1068,rosthern,68.0,1,Saskatchewan,1688
+1069,saltcoats,30.0,1,Saskatchewan,474
+1070,saskatoon,1833.0,16,Saskatchewan,246376
+1071,shaunavon,41.0,1,Saskatchewan,1699
+1072,shellbrook,33.0,1,Saskatchewan,1444
+1073,spiritwood,43.0,1,Saskatchewan,916
+1074,st. brieux,29.0,1,Saskatchewan,590
+1075,st. walburg,0.0,1,Saskatchewan,716
+1076,stoughton,30.0,1,Saskatchewan,694
+1077,strasbourg,38.0,1,Saskatchewan,752
+1078,swift current,225.0,1,Saskatchewan,16604
+1079,theodore,19.0,1,Saskatchewan,345
+1080,tisdale,72.0,1,Saskatchewan,3180
+1081,turtleford,0.0,1,Saskatchewan,525
+1082,unity,32.0,1,Saskatchewan,2573
+1083,wadena,45.0,1,Saskatchewan,1306
+1084,wakaw,46.0,1,Saskatchewan,985
+1085,warman,31.0,1,Saskatchewan,11020
+1086,watrous,43.0,1,Saskatchewan,1900
+1087,watson,51.0,1,Saskatchewan,777
+1088,wawota,29.0,1,Saskatchewan,560
+1089,weyburn,208.0,2,Saskatchewan,10870
+1090,whitewood,30.0,1,Saskatchewan,950
+1091,wilkie,29.0,1,Saskatchewan,1301
+1092,wolseley,78.0,1,Saskatchewan,864
+1093,wynard,57.0,1,Saskatchewan,0
+1094,wynyard,57.0,1,Saskatchewan,1767
+1095,yorkton,,1,Saskatchewan,16343
+1096,airdrie,74.0,2,Alberta,61581
+1097,alexander reserve,13.0,1,Alberta,0
+1098,athabasca,100.0,2,Alberta,2965
+1099,banff,47.0,1,Alberta,7847
+1100,barrhead,176.0,5,Alberta,4579
+1101,bashaw,30.0,2,Alberta,873
+1102,bassano,12.0,1,Alberta,1206
+1103,beaumont,46.0,1,Alberta,17396
+1104,beaverlodge,18.0,1,Alberta,2465
+1105,bentley,16.0,1,Alberta,1078
+1106,black diamond,45.0,1,Alberta,2700
+1107,blackfoot,6.0,1,Alberta,269
+1108,blairmore,94.0,2,Alberta,0
+1109,bonnyville,133.0,4,Alberta,5975
+1110,bow island,50.0,2,Alberta,1983
+1111,boyle,20.0,1,Alberta,916
+1112,breton,23.0,1,Alberta,496
+1113,brooks,161.0,3,Alberta,14451
+1114,calgary,8058.0,91,Alberta,1239220
+1115,camrose,458.0,9,Alberta,18742
+1116,canmore,,2,Alberta,13992
+1117,cardston,146.0,3,Alberta,3585
+1118,castor,27.0,1,Alberta,932
+1119,claresholm,,4,Alberta,3780
+1120,coaldale,89.0,2,Alberta,8215
+1121,cochrane,,2,Alberta,25853
+1122,cold lake,97.0,2,Alberta,14961
+1123,consort,20.0,1,Alberta,689
+1124,coronation,52.0,1,Alberta,947
+1125,crooked creek,15.0,1,Alberta,0
+1126,daysland,42.0,2,Alberta,807
+1127,desmarais,10.0,1,Alberta,138
+1128,devon,24.0,1,Alberta,6578
+1129,didsbury,167.0,3,Alberta,5268
+1130,drayton valley,114.0,4,Alberta,7235
+1131,drumheller,174.0,4,Alberta,7982
+1132,eckville,15.0,1,Alberta,1125
+1133,edmonton,10293.0,92,Alberta,1062643
+1134,edson,108.0,2,Alberta,8414
+1135,elk point,52.0,2,Alberta,1452
+1136,evansburg,40.0,1,Alberta,880
+1137,fairview,92.0,1,Alberta,162
+1138,fort macleod,68.0,3,Alberta,2967
+1139,fort mcmurray,163.0,3,Alberta,0
+1140,fort saskatchewan,121.0,2,Alberta,24149
+1141,fort vermilion,34.0,1,Alberta,727
+1142,fox creek,4.0,1,Alberta,1971
+1143,galahad,20.0,1,Alberta,119
+1144,grande cache,27.0,2,Alberta,3571
+1145,grande prairie,575.0,7,Alberta,63166
+1146,grimshaw,76.0,2,Alberta,2718
+1147,hanna,78.0,1,Alberta,2559
+1148,hardisty,20.0,1,Alberta,639
+1149,high level,45.0,2,Alberta,3159
+1150,high prairie,78.0,3,Alberta,2564
+1151,high river,185.0,3,Alberta,13584
+1152,hinton,75.0,3,Alberta,9882
+1153,hythe,31.0,1,Alberta,820
+1154,innisfail,208.0,2,Alberta,7847
+1155,islay,20.0,1,Alberta,208
+1156,jasper,27.0,2,Alberta,4590
+1157,killam,50.0,1,Alberta,981
+1158,la crete,77.0,3,Alberta,523
+1159,lac la biche,64.0,1,Alberta,2520
+1160,lacombe,221.0,2,Alberta,13057
+1161,lamont,120.0,1,Alberta,1774
+1162,leduc,329.0,4,Alberta,29993
+1163,lethbridge,1425.0,17,Alberta,92729
+1164,linden,37.0,1,Alberta,725
+1165,lloydminster,170.0,3,Alberta,31410
+1166,lloydminster (sask),39.0,2,Alberta,0
+1167,magrath,35.0,2,Alberta,2374
+1168,manning,27.0,1,Alberta,1183
+1169,mannville,23.0,1,Alberta,803
+1170,mayerthorpe,120.0,3,Alberta,1320
+1171,mclennan,77.0,2,Alberta,809
+1172,medicine hat,964.0,14,Alberta,63260
+1173,milk river,34.0,2,Alberta,811
+1174,morinville,74.0,1,Alberta,9848
+1175,mundare,30.0,1,Alberta,855
+1176,myrnam,9.0,1,Alberta,370
+1177,nanton,38.0,1,Alberta,2181
+1178,nordegg,10.0,1,Alberta,0
+1179,okotoks,200.0,4,Alberta,28881
+1180,olds,163.0,3,Alberta,9184
+1181,onoway,15.0,1,Alberta,1029
+1182,oyen,40.0,1,Alberta,1001
+1183,peace river,113.0,3,Alberta,6842
+1184,picturebutte,35.0,3,Alberta,0
+1185,pincher creek,94.0,2,Alberta,3642
+1186,ponoka,480.0,4,Alberta,7229
+1187,provost,62.0,1,Alberta,1998
+1188,radway,30.0,1,Alberta,162
+1189,rainbow lake,,1,Alberta,870
+1190,raymond,102.0,2,Alberta,3708
+1191,red deer,1112.0,12,Alberta,100418
+1192,redwater,21.0,1,Alberta,2053
+1193,rimbey,107.0,1,Alberta,2567
+1194,rocky mtn house,150.0,3,Alberta,0
+1195,sherwood,378.0,7,Alberta,0
+1196,slave lake,97.0,4,Alberta,6651
+1197,smoky lake,63.0,2,Alberta,1022
+1198,spirit river,28.0,1,Alberta,1025
+1199,spruce,161.0,2,Alberta,0
+1200,st paul,146.0,2,Alberta,0
+1201,st. albert,826.0,8,Alberta,65589
+1202,st. paul,11.0,1,Alberta,5827
+1203,stettler,164.0,2,Alberta,5952
+1204,stony plain,255.0,3,Alberta,17189
+1205,strathmore,188.0,2,Alberta,13756
+1206,sundre,63.0,2,Alberta,2729
+1207,swan hills,4.0,1,Alberta,1301
+1208,sylvan lake,61.0,2,Alberta,14816
+1209,taber,154.0,3,Alberta,8428
+1210,three hills,60.0,2,Alberta,3212
+1211,tofield,66.0,1,Alberta,2081
+1212,trochu,28.0,1,Alberta,1058
+1213,two hills,83.0,1,Alberta,1352
+1214,valleyview,45.0,1,Alberta,1863
+1215,various,367.0,4,Alberta,0
+1216,vegreville,182.0,5,Alberta,5708
+1217,vermilion,113.0,2,Alberta,4084
+1218,viking,76.0,2,Alberta,1083
+1219,villeneuve,32.0,1,Alberta,136
+1220,vilna,12.0,1,Alberta,249
+1221,vulcan,69.0,2,Alberta,1917
+1222,wainwright,153.0,2,Alberta,6270
+1223,westlock,212.0,2,Alberta,5101
+1224,wetaskiwin,297.0,5,Alberta,12655
+1225,whitecourt,37.0,2,Alberta,1082
