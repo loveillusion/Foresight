@@ -47,8 +47,8 @@ coefs = lr.coef_
 intercept = lr.intercept_
 print(coefs, intercept)
 xs = np.tile(np.arange(61), (61,1))
-zs = np.tile(np.arange(61), (61,1)).T
-ys = xs*coefs[0]+zs*coefs[1]+intercept
+ys = np.tile(np.arange(61), (61,1)).T
+zs = xs*coefs[0]+zs*coefs[1]+intercept
 print("Equation: y = {:.2f} + {:.2f}x1 + {:.2f}x2".format(intercept, coefs[0],
                                                           coefs[1]))
 
