@@ -5,7 +5,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import r2_score
 
-df = pd.read_csv('Ontario.csv')
+df = pd.read_csv('Foresight/dataset/Ontario.csv')
 X = df[['Number of Homes', 'Population']]
 y = df['Number of Beds']
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 1/3)
