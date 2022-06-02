@@ -49,8 +49,7 @@ print(coefs, intercept)
 xs = np.tile(np.arange(61), (61,1))
 ys = np.tile(np.arange(61), (61,1)).T
 zs = xs*coefs[0]+zs*coefs[1]+intercept
-print("Equation: y = {:.2f} + {:.2f}x1 + {:.2f}x2".format(intercept, coefs[0],
-                                                          coefs[1]))
+print("Equation: y = {:.2f} + {:.2f}x1 + {:.2f}x2".format(intercept, coefs[0], coefs[1]))
 
 ax.scatter(x1, y1, z1, c='r', marker='x')
 ax.scatter(x2, y2, z2, c = 'b', marker = 'x')
