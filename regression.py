@@ -7,7 +7,7 @@ from sklearn.metrics import r2_score
 from sklearn import preprocessing
 
 
-df = pd.read_csv('/content/drive/MyDrive/Borealis/Ontario.csv')
+df = pd.read_csv('Foresight/dataset/Ontario.csv')
 scaler = preprocessing.MinMaxScaler()
 X = df[['Number of Homes', 'Population']]
 y = df['Number of Beds']
