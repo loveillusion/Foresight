@@ -1,0 +1,10 @@
+S.no,City,Number of Beds,Number of Homes,Province,Population,NoB required (raw),NoB req,Discrepancy
+1,alberton,48,1,PEI,1145,31.28413312,32,-16
+2,charlottetown,693,8,PEI,42602,1163.988331,1164,471
+3,crapaud,36,1,PEI,345,9.426223515,10,-26
+4,kensington,30,1,PEI,1619,44.23494455,45,15
+5,montague,49,1,PEI,3761,102.7594975,103,54
+6,o'leary,40,1,PEI,812,22.18577824,23,-17
+7,souris,52,1,PEI,1053,28.77047351,29,-23
+8,summerside,198,3,PEI,14829,405.1636768,406,208
+9,tyne valley,23,1,PEI,222,6.065569914,7,-16
