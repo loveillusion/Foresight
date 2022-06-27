@@ -23,6 +23,12 @@ m2 = joblib.load('Foresight/models/' + province + '/m2.sav')
 # Getting Inputs:
 NoH = int(input("Enter of Homes: "))
 Pop = int(input("Enter Population: "))
+print()
+
+# Output R2 & CV Scores:
+print("R Squared Score: ", R2scores[provinces.index(province)])
+print("Cross Validation Mean: ", CVscores[provinces.index(province)])
+print()
 
 # Normalization:
 NoH = (NoH - int(maxmin[columns.index('min_NoH')])) / (int(maxmin[columns.index('max_NoH')]) - int(maxmin[columns.index('min_NoH')]))
@@ -38,4 +44,8 @@ Disc = (m2.predict(dataframe2))[0][0]
 NoB = NoB * (int(maxmin[columns.index('max_NoB')]) - int(maxmin[columns.index('min_NoB')])) + int(maxmin[columns.index('min_NoB')])
 Disc = Disc * (int(maxmin[columns.index('max_Disc')]) - int(maxmin[columns.index('min_Disc')])) + int(maxmin[columns.index('min_Disc')])
 prediction = int(NoB + Disc)
-print(prediction)
+
+# Output Values of M1, M2 & Prediction:
+print("Predicted Number of Beds: ", NoB)
+print("Predicted Adjustment: ", Disc)
+print("Total Number of Beds Needed (with Adjustment): ", prediction) 
