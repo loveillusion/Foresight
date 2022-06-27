@@ -6,7 +6,10 @@ import joblib
 
 province = input("Enter Alpha Code of Province: ")
 provinces = ['Header', 'AB', 'BC', 'MB', 'NB', 'NL', 'NS', 'ON', 'PE', 'QC', 'SK']
+R2scores = ['score', '94.02%', '73.28%', '96.25%', '81.63%', '89.22%', '70.57%', '92.92%', '96.01%', '75.97%', '96.81%']
+CVscores = ['score', '64.20%', '-1.17%', '67.23%', '47.09%', '-133.87%', '-458.33%', '91.26%', '-188.63%', '38.17%', '-76.51%']
 columns = ['prov', 'min_NoH', 'max_NoH', 'min_Pop', 'max_Pop', 'min_NoB', 'max_NoB', 'min_Disc', 'max_Disc']
+
 
 # Get Required Row:
 maxmin = open('Foresight/datasets/maxmin.csv')
