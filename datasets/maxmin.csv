@@ -1,0 +1,11 @@
+Province,Min NoH,Max NoH,Min Population,Max population,Min NoB,Max NoB,Min Discrepancy,Max Discrepancy
+Alberta,1,92,119,1239220,2,10293,-249,31518
+British Columbia,1,22,300,2264823,1,201,12,94169
+Manitoba,1,39,75,705244,3,5640,-165,1576
+New Brunswick,1,34,218,108620,2,780,-416,21395
+Newfoundland and Labrador,1,6,429,108860,3,1083,-60,2311
+Nova Scotia,1,10,33,403131,2,1220,-77,10623
+Ontario,1,29,52,5429524,9,4911,-547,694956
+PEI,1,8,222,42602,23,693,-23,471
+Quebec,1,200,212,7903001,1,3229,20,1112232
+Saskatchewan,1,16,125,246376,5,1833,-111,1375
