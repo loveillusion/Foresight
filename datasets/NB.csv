@@ -1,0 +1,82 @@
+S.no,City,Number of Beds,Number of Homes,Province,Population,NoB required (raw),NoB req,Discrepancy
+1,alcida,6,2,New Brunswick,218,21400.60026,21401,21395
+2,atholville,39,1,New Brunswick,3570,6.615201062,7,-32
+3,avondale,9,1,New Brunswick,636,108.3315036,109,100
+4,baker brook,19,1,New Brunswick,287,19.29939392,20,1
+5,balmoral,50,2,New Brunswick,1674,8.709003233,9,-41
+6,bas-caraquet,64,2,New Brunswick,1380,50.79746137,51,-13
+7,bathurst,420,15,New Brunswick,18154,41.87604342,42,-378
+8,beresford,59,3,New Brunswick,6248,550.8823857,551,492
+9,berwick,10,1,New Brunswick,2509,189.5953038,190,180
+10,blackville,18,2,New Brunswick,2215,76.13550213,77,59
+11,bloomfield,12,1,New Brunswick,534,67.21408419,68,56
+12,bouctouche,146,8,New Brunswick,2423,16.20420811,17,-129
+13,burton,11,1,New Brunswick,5119,73.52583566,74,63
+14,campbellton,220,13,New Brunswick,10411,155.3358451,156,-64
+15,caraquet,48,1,New Brunswick,4248,315.9213681,316,268
+16,clair,24,1,New Brunswick,297,128.9053858,129,105
+17,cocagne,50,2,New Brunswick,2649,9.012452823,10,-40
+18,dalhousie,90,3,New Brunswick,3126,80.38379639,81,-9
+19,dieppe,417,9,New Brunswick,107068,94.85834183,95,-322
+20,douglas,10,1,New Brunswick,6154,3248.97407,3249,3239
+21,drummond,5,1,New Brunswick,2250,186.7428777,187,182
+22,dundee,8,1,New Brunswick,408,68.27615775,69,61
+23,edmundston,429,11,New Brunswick,16580,12.38074327,13,-416
+24,eel river crossing,8,1,New Brunswick,1953,503.1194202,504,496
+25,fredericton,268,15,New Brunswick,58220,59.26370493,60,-208
+26,gagetown,19,1,New Brunswick,316,1766.683513,1767,1748
+27,hampstead,3,1,New Brunswick,7153,9.589007044,10,7
+28,hampton,38,3,New Brunswick,4289,217.0574917,218,180
+29,hanwell,26,2,New Brunswick,4750,130.1495292,131,105
+30,hartland,15,2,New Brunswick,947,144.1385553,145,130
+31,hillsborough,52,2,New Brunswick,1308,28.73667617,29,-23
+32,inkerman,50,2,New Brunswick,714,39.69120637,40,-10
+33,kedgwick,8,1,New Brunswick,1979,21.66630073,22,14
+34,kingston,6,1,New Brunswick,2913,60.05267386,61,55
+35,lac baker,3,1,New Brunswick,719,88.39486557,89,86
+36,lameque,48,1,New Brunswick,1285,21.81802552,22,-26
+37,landry office,20,1,New Brunswick,398,38.99327232,39,19
+38,lansdowne,8,1,New Brunswick,723,12.07729368,13,5
+39,laplante,20,2,New Brunswick,312,21.93940536,22,2
+40,maisonnette,8,1,New Brunswick,573,9.467627208,10,2
+41,mcleods,8,1,New Brunswick,381,17.38766151,18,10
+42,memramcook,28,1,New Brunswick,4778,11.56142938,12,-16
+43,minto,37,2,New Brunswick,8671,144.9882141,145,108
+44,miramichi,128,11,New Brunswick,17537,263.1211395,264,136
+45,moncton,780,27,New Brunswick,108620,532.159546,533,-247
+46,neguac,66,4,New Brunswick,1684,3296.069447,3297,3231
+47,norton,10,1,New Brunswick,1382,51.10091096,52,42
+48,oak bay,14,1,New Brunswick,18094,41.93673334,42,28
+49,oromocto,24,1,New Brunswick,9223,549.0616881,550,526
+50,paquetville,8,1,New Brunswick,2329,279.8715569,280,272
+51,pennfield,30,2,New Brunswick,2218,70.67340951,71,41
+52,perth-andover,24,1,New Brunswick,1778,67.30511906,68,44
+53,petitcodiac,22,1,New Brunswick,1383,53.9533371,54,32
+54,petit-rocher,50,2,New Brunswick,1908,41.9670783,42,-8
+55,pointe-verte,8,1,New Brunswick,976,57.89818177,58,50
+56,port elgin,10,1,New Brunswick,418,29.61667998,30,20
+57,quispamsis,60,1,New Brunswick,18245,12.68419286,13,-47
+58,richibucto,29,2,New Brunswick,1887,553.643777,554,525
+59,riverview,85,4,New Brunswick,19667,57.26093763,58,-27
+60,riviere-a-la-truite,17,1,New Brunswick,395,596.7943087,597,580
+61,robertville,30,1,New Brunswick,895,11.98625881,12,-18
+62,rogersville,30,2,New Brunswick,1166,27.15873831,28,-2
+63,sackville,33,2,New Brunswick,5331,35.38222219,36,3
+64,saint john,414,34,New Brunswick,67575,161.7689764,162,-252
+65,saint-andre,15,3,New Brunswick,1129,2050.560604,2051,2036
+66,saint-antoine,55,1,New Brunswick,1733,34.25945871,35,-20
+67,saint-basile,31,3,New Brunswick,2463,52.58781395,53,22
+68,saint-jacques,8,1,New Brunswick,4021,74.73963402,75,67
+69,saint-quentin,13,2,New Brunswick,2194,122.0170801,123,110
+70,salisbury,62,3,New Brunswick,3388,66.57684005,67,5
+71,shediac,196,4,New Brunswick,6664,102.8087211,103,-93
+72,shippagan,69,3,New Brunswick,4800,202.2188068,203,134
+73,st. george,8,1,New Brunswick,1517,145.6558032,146,138
+74,st. stephen,16,2,New Brunswick,4817,46.0333028,47,31
+75,sussex,2,1,New Brunswick,4282,146.1716675,147,145
+76,tracadie,61,2,New Brunswick,16114,129.9371144,130,69
+77,tracadie-sheila,148,6,New Brunswick,4933,488.9786693,489,341
+78,tremblay,10,1,New Brunswick,460,149.6916827,150,140
+79,waterville,10,1,New Brunswick,2028,13.95868114,14,4
+80,wickham,13,1,New Brunswick,2470,61.53957685,62,49
+81,woodstock,26,2,New Brunswick,40902,74.95204873,75,49
