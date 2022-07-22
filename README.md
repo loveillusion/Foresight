@@ -8,6 +8,9 @@ Modeling Future Requirements for Retirement Homes in Canada
         Theodora Turda
 - Mentors: Vineel Nagisetty
            Shilpa Singh
+- Blog Post:
+- Report:
+- Presentation:
 
 
 user_input.py (Shriya)
