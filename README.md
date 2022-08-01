@@ -2,7 +2,7 @@
 Modeling Future Requirements for Retirement Homes in Canada
 
 - Built as part of Borealis AI's 'Let's Solve It' program.
-- Team: Shriya Kulkarni (shrikulk)
+- Team: Shriya Kulkarni (s32k)
         Simi Colaco (scococola)
         Yijun Zhao (loveillusion)
         Theodora Turda
